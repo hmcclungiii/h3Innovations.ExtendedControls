@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListviewExtensions", "Listview\ListviewExtensions.csproj", "{AE33D480-98DE-46FE-9F12-51B289836DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListviewExtensions.Tests", "ListviewExtensions.Tests\ListviewExtensions.Tests.csproj", "{D5FF948D-DF85-4513-B448-CBD96BE60705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListviewExtensions.Demo", "ListviewExtensions.Demo\ListviewExtensions.Demo.csproj", "{7CA530B9-B868-498C-9380-FF684DE36A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE33D480-98DE-46FE-9F12-51B289836DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE33D480-98DE-46FE-9F12-51B289836DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE33D480-98DE-46FE-9F12-51B289836DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE33D480-98DE-46FE-9F12-51B289836DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF948D-DF85-4513-B448-CBD96BE60705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF948D-DF85-4513-B448-CBD96BE60705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF948D-DF85-4513-B448-CBD96BE60705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FF948D-DF85-4513-B448-CBD96BE60705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA530B9-B868-498C-9380-FF684DE36A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA530B9-B868-498C-9380-FF684DE36A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA530B9-B868-498C-9380-FF684DE36A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA530B9-B868-498C-9380-FF684DE36A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
